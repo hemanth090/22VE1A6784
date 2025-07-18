@@ -30,7 +30,7 @@ A modern, feature-rich URL shortener built with React and Material-UI that allow
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+[git clone https://github.com/hemanth090/22VE1A6784
 cd url-shortener
 ```
 
